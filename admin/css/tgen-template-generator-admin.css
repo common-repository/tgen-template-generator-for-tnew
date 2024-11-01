@@ -1,0 +1,72 @@
+/**
+ * All of the CSS for your admin-specific functionality should be
+ * included in this file.
+ */
+
+.lhl-admin-description{
+    max-width: 850px;
+}
+
+/**
+    Buttons
+*/
+.lhl-admin-button__message{
+    line-height: 31px;
+    padding-left: 20px;
+}
+
+.lhl-admin-button__response{
+    padding: 15px 10px 20px;
+    margin: 20px 0;
+    max-width: 700px;
+
+    background: #fff;
+    border: 1px solid #c3c4c7;
+    /* border-left-color: rgb(195, 196, 199); */
+    /* border-left-width: 1px; */
+    /* border-left-width: 4px; */
+    box-shadow: 0 1px 1px rgba(0,0,0,.04);
+}
+
+.lhl-admin-button__response p.lhl_p{
+    padding-bottom: 20px;
+}
+
+.lhl-admin-button__response.empty{
+    display: none;
+}
+
+
+/*********************************************/
+
+ .tgen_note{
+     font-size: 15px;
+ }
+ .tgen_first_note{
+     padding-bottom: 20px;
+ }
+
+.tgen_container{
+    z-index: 1020;
+    padding: 20px;
+    margin-top: 20px;
+    background-color: rgba(255,255,255,0.95);
+    box-shadow: 0 0.5rem 1rem rgba(0,0,0,0.05),inset 0 -1px 0 rgba(0,0,0,0.15); 
+}
+
+ .tgen_instructions li{
+    font-size: 16px;
+    padding-bottom: 5px;
+ }
+ 
+ .tgen_instructions_sub{
+    padding-top: 10px;
+    margin-left: 20px;
+    list-style-type: circle;
+ }
+
+ .tgentg_generate_button__template{
+    width: 700px;
+ }
+
+ 

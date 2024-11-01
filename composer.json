@@ -1,0 +1,8 @@
+{
+    "require": {
+        "voku/simple_html_dom": "^4.7",
+        "pear/net_url2": "^2.2",
+        "shanethehat/pretty-xml": "^1.0",
+        "lehelmatyus/wp-lhl-admin-ui": "^1.1"
+    }
+}
